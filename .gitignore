@@ -1,3 +1,5 @@
 myenv
 my_model
 gui
+my_model.h5
+scaler.pkl
